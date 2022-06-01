@@ -1,0 +1,164 @@
+﻿<Page x:Class="School.AddEditService"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:School"
+      mc:Ignorable="d" d:DesignWidth="1000"
+      Title="AddEditService" Background="#FFE7FABF" Height="1028" >
+
+    <Grid Margin="0,0,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="164"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Клиент" Foreground="#FF04A0FF" FontSize="40" FontWeight="Bold" Grid.ColumnSpan="2" Margin="287,20,312,0"></TextBlock>
+        <StackPanel Orientation="Vertical" Margin="10"
+                    Grid.Row="1" Grid.Column="0" Visibility="Visible" Grid.RowSpan="2">
+            <StackPanel Orientation="Horizontal" Height="44">
+                <TextBlock x:Name="IdentProduct"
+                   Text="Идентификатор:"
+                           VerticalAlignment="Center"
+                 
+                   Foreground="White"
+                   FontSize="30"/>
+                <TextBlock x:Name="IdProduct"
+              
+                   Text="{Binding Id}"
+                   Foreground="#FF04A0FF"
+                           VerticalAlignment="Center"
+                   FontSize="30"
+                           Width="40"
+                   Margin="20,0,0,0"/>
+            </StackPanel>
+            <TextBox x:Name="NameProduct"
+              Text="Колобова"
+                 Grid.Row="1"
+                 Height="50"
+                 VerticalContentAlignment="Center"
+                 FontSize="30"
+                 VerticalAlignment="Top"
+                 Margin="0,10,0,0"
+                 GotFocus="NameProduct_GotFocus"
+                 LostFocus="NameProduct_LostFocus"
+                 PreviewTextInput="NameProduct_PreviewTextInput"/>
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0" Height="52">
+                <TextBox x:Name="ProductPhotoName"
+             Text="121323\433\4\4433434\34ааапааапе\44\4\\3\4\"
+                 IsReadOnly="True"
+                 Height="50"
+                        Width="429"
+                 VerticalContentAlignment="Center"
+                 FontSize="30"
+                 VerticalAlignment="Top"/>
+                <Button  Background="#FF04A0FF" 
+                 Click="AddImage_Click"
+                 BorderBrush="#AD7261" 
+                         Height="35"
+                         Margin="10,0,0,0"
+                 HorizontalAlignment="Right"
+                 Grid.Row="1" >
+                    <Path Data = "M43 38.2222V4.77778C43 2.15 40.85 0 38.2222 0H4.77778C2.15 0 0 2.15 0 4.77778V38.2222C0 40.85 2.15 43 4.77778 43H38.2222C40.85 43 43 40.85 43 38.2222ZM14.0944 26.23L19.1111 32.2739L26.5167 22.7422C26.9944 22.1211 27.95 22.1211 28.4278 22.7661L36.8128 33.9461C37.41 34.7344 36.8367 35.8572 35.8572 35.8572H7.21444C6.21111 35.8572 5.66167 34.7106 6.28278 33.9222L12.2311 26.2778C12.685 25.6567 13.5928 25.6328 14.0944 26.23Z"
+                  Fill="White" 
+                  Stretch="Fill" 
+                  Height="35"
+                  Width="35"/>
+                </Button>
+            </StackPanel>
+            <TextBox x:Name="countProduct"
+              Text="12.01.2000"
+                 Grid.Row="1"
+                 Height="50"
+                 VerticalContentAlignment="Center"
+                 FontSize="30"
+                 VerticalAlignment="Top"
+                 Margin="0,20,0,0"
+                 GotFocus="NameProduct_GotFocus"
+                 LostFocus="NameProduct_LostFocus"
+                 PreviewTextInput="NameProduct_PreviewTextInput"/>
+            <TextBox x:Name="CommentProduct" 
+           
+                 FontSize="30"
+                 Height="60"
+                     Padding="5"
+                 VerticalAlignment="Top"
+                 Margin="0,30,0,0" VerticalContentAlignment="Top"
+                 GotFocus="CommentProduct_GotFocus"
+                 LostFocus="CommentProduct_LostFocus"
+                 PreviewTextInput="CommentProduct_PreviewTextInput" Text="21.12.2021"/>
+            <TextBox x:Name="CommentPoduct" 
+           
+                 FontSize="30"
+                 Height="52"
+                     Padding="5"
+                 VerticalAlignment="Top"
+                 Margin="0,30,0,0" VerticalContentAlignment="Top"
+                 GotFocus="CommentProduct_GotFocus"
+                 LostFocus="CommentProduct_LostFocus"
+                 PreviewTextInput="CommentProduct_PreviewTextInput" Text="kolobovamariya@yandex.ru"/>
+            <TextBox x:Name="CommfentPoduct" 
+           
+                 FontSize="30"
+                 Height="52"
+                     Padding="5"
+                 VerticalAlignment="Top"
+                 Margin="0,30,0,0" VerticalContentAlignment="Top"
+                 GotFocus="CommentProduct_GotFocus"
+                 LostFocus="CommentProduct_LostFocus"
+                 PreviewTextInput="CommentProduct_PreviewTextInput" Text="89586233789"/>
+            <StackPanel Orientation="Horizontal" Margin="0,30,0,0">
+                <TextBlock 
+                  VerticalAlignment="Center"
+                 FontSize="30" Text="Пол" Foreground="Black"/>
+                <ComboBox x:Name="TypeUnitBox"
+                 
+                  DisplayMemberPath="Name"
+                          Margin="30,0,0,0"
+            
+                  FontSize="30"
+                  Width="220"
+                  Height="50" >
+                    <ComboBoxItem Content="ж" IsSelected="True"></ComboBoxItem>
+                </ComboBox>
+              
+            </StackPanel>
+            <TextBox x:Name="CommfentPкаoduct" 
+           TextWrapping="Wrap"
+                 FontSize="30"
+                 Height="112"
+                     Padding="5"
+                 VerticalAlignment="Top"
+                 Margin="0,30,0,0" VerticalContentAlignment="Top"
+                 GotFocus="CommentProduct_GotFocus"
+                 LostFocus="CommentProduct_LostFocus"
+                 PreviewTextInput="CommentProduct_PreviewTextInput" Text="Занятие с репетитором-носителем французского языка"/>
+        </StackPanel>
+        <Image x:Name="ProductPhoto"
+               Source="12.png"
+               Grid.Column="1"
+               Stretch="Fill"
+               VerticalAlignment="Top"
+               Height="320"
+               Grid.Row="1" Margin="38,0,80,0"/>
+        <Button Content="Сохранить"
+            
+                FontSize="40"
+                Background="#FF04A0FF"
+                Foreground="White"
+                Grid.Row="2"
+                Click="Save_Click" Height="60" Margin="80,48,216,56" Grid.Column="1"/>
+        <Button Content="Отмена"
+          
+                FontSize="30"
+                Background="#FF04A0FF"
+                Foreground="White"
+                Grid.Row="2"
+                Grid.Column="1"
+                Click="Cancel_Click" Height="60" Margin="307,48,46,56" />
+    </Grid>
+</Page>
