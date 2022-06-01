@@ -1,0 +1,148 @@
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Cardiologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Dentist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Dermatologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Doctors.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Endocrinologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\GastroenterologAndNephorolog.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Gynecologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\LOR.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Narcologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Neurologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Nutrionist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Ophthalmologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Pediatrician.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Proctologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Psychiatrist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Radiologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Registration.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Surgeon.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Therapist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketPatient.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Ultrasound.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Urologist.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\App.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos_Content.g.cs
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.cache
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.lref
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\TicketHos.exe.config
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\TicketHos.exe
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\TicketHos.pdb
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\EntityFramework.dll
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\EntityFramework.xml
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\201807\Desktop\TicketHos\TicketHos\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Cardiologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Dentist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Dermatologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Doctors.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Endocrinologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\GastroenterologAndNephorolog.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Gynecologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\LOR.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Narcologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Neurologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Nutrionist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Ophthalmologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Pediatrician.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Proctologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Psychiatrist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Radiologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Registration.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Surgeon.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Therapist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketPatient.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Ultrasound.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\Urologist.baml
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.g.resources
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.Properties.Resources.resources
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.GenerateResource.cache
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CoreCompileInputs.cache
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CopyComplete
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.exe
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.pdb
+C:\Users\201807\Desktop\TicketHos\TicketHos\obj\Debug\TicketHos.csprojAssemblyReference.cache
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.exe
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.pdb
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.exe.config
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.exe
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.pdb
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.dll
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.xml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\DocChoice.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\Registration.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\App.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_Content.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.cache
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.lref
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\DocChoice.baml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\Registration.baml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.g.resources
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.Properties.Resources.resources
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.GenerateResource.cache
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CopyComplete
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.exe.config
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.exe
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\TicketHos.pdb
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.dll
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.xml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\DocChoice.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\MainWindow.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\Registration.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketPatient.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\App.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_Content.g.cs
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.cache
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.lref
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\DocChoice.baml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\MainWindow.baml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\Registration.baml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketPatient.baml
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.g.resources
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.Properties.Resources.resources
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.GenerateResource.cache
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CoreCompileInputs.cache
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CopyComplete
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.exe
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.pdb
+C:\Users\201807\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csprojAssemblyReference.cache
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\MainWindow.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\MainWindow.baml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketPatient.g.cs
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketPatient.baml
+C:\Users\home\Desktop\кккккк\TicketHos\TicketHos\obj\Debug\TicketHos.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\TicketHos.exe.config
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\TicketHos.exe
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\TicketHos.pdb
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\EntityFramework.dll
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\EntityFramework.xml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\DocChoice.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\MainWindow.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\Registration.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketPatient.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\App.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos_Content.g.cs
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.cache
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos_MarkupCompile.lref
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\DocChoice.baml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\MainWindow.baml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\Registration.baml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketPatient.baml
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.g.resources
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.Properties.Resources.resources
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.csproj.CopyComplete
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.exe
+C:\Users\home\Desktop\Давлеткирова 320 курсовой проект\TicketHos\TicketHos\obj\Debug\TicketHos.pdb

@@ -1,0 +1,174 @@
+﻿<Page x:Class="TicketHos.Doctors"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TicketHos"
+      mc:Ignorable="d" 
+     d:DesignHeight="450"
+      ShowsNavigationUI="False"
+        Height="750" Width="1490" Foreground="{x:Null}" Background="White">
+
+    <Grid Margin="0,0,30,15">
+        <StackPanel OpacityMask="#FF123276"
+                    Margin="-37,1,77,-23"  >
+            <Button Content="ОФТАЛЬМОЛОГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30"
+                    FontWeight="Medium"
+                    Margin="70,20,1107,450" Click="Button_Click_1" 
+                     />
+            <Button Content="УЗИ-ДИАГНОСТ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30"
+                    FontWeight="Medium" 
+                    Margin="70,-430,1107,450" Click="Button_Click" />
+            <Button Content="ЛОР" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30" 
+                    FontWeight="Medium" 
+                    Margin="70,-430,1107,450" Click="Button_Click_2"/>
+            <Button Content="ТЕРАПЕВТ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8"
+                    Height="90"
+                    FontSize="30" 
+                    FontWeight="Medium" 
+                    Margin="70,-430,1107,450" Click="Button_Click_3"/>
+            <Button Content="НЕВРОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30" 
+                    FontWeight="Medium"
+                    Margin="70,-430,1107,450" Click="Button_Click_4"/>
+            <Button Content="ГИНЕКОЛОГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30" 
+                    FontWeight="Medium"
+                    Margin="70,-430,1107,450" Click="Button_Click_5"  />
+            <Button Content="ДЕРМАТОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30"
+                    FontWeight="Medium" 
+                    Margin="594,-1640,582,450" Click="Button_Click_6"  />
+
+
+            <Button Content="КАРДИОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30"
+                    FontWeight="Medium" 
+                    Margin="594,-1430,582,450" Click="Button_Click_7"/>
+            <Button Content="ПСИХИАТР"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30" 
+                    FontWeight="Medium" 
+                    Margin="594,-1210,582,450" Click="Button_Click_8"/>
+            <Button Content="ЭНДОКРИНОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30" 
+                    FontWeight="Medium" 
+                    Margin="594,-990,582,450" Click="Button_Click_9"/>
+            <Button Content="ДИЕТОЛОГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30"
+                    FontWeight="Medium" 
+                    Margin="594,-770,582,450" Click="Button_Click_10"/>
+            <Button Content="ГАСТРОЭНТЕРОЛОГ И НЕФРОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="100" 
+                    FontSize="30"
+                    FontWeight="Medium"
+                    Margin="474,-540,456,450" Click="Button_Click_11"  />
+
+
+            <Button Content="НАРКОЛОГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" FontSize="30"
+                    FontWeight="Medium"
+                    Margin="1107,-1680,69,450" Click="Button_Click_12" />
+            <Button Content="ПЕДИАТР"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8"
+                    Height="90"
+                    FontSize="30"
+                    FontWeight="Medium" 
+                    Margin="1107,-1470,69,450" Click="Button_Click_13" />
+            <Button Content="ДАНТИСТ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8" 
+                    Height="90"
+                    FontSize="30" 
+                    FontWeight="Medium"
+                    Margin="1107,-1250,69,450" Click="Button_Click_14" />
+            <Button Content="РЕНТГЕНОЛОГ"
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30" 
+                    FontWeight="Medium" 
+                    Margin="1107,-1030,69,450" Click="Button_Click_15" />
+            <Button Content="УРОЛОГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78" 
+                    Background="#FF6ABAE8" 
+                    Height="90" 
+                    FontSize="30" 
+                    FontWeight="Medium"
+                    Margin="1107,-820,69,450" Click="Button_Click_16"/>
+
+            <Button Content="ХИРУРГ" 
+                    Foreground="#FF0353FF" 
+                    BorderBrush="#FF040E78"
+                    Background="#FF6ABAE8"
+                    Height="90" 
+                    FontSize="30"
+                    FontWeight="Medium"
+                    Margin="1107,-590,69,450" Click="Button_Click_17"/>
+
+
+        </StackPanel>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="hos.png"
+                        TileMode="Tile" 
+                        Stretch="Uniform"/>
+        </Grid.Background>
+    </Grid>
+</Page>

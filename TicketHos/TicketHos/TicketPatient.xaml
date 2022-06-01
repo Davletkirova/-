@@ -1,0 +1,122 @@
+﻿<Page x:Class="TicketHos.TicketPatient"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TicketHos"
+      mc:Ignorable="d" 
+       
+      Background="White" Width="524" Height="442">
+
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="hos.png" 
+                        TileMode="Tile" 
+                        Stretch="Uniform"/>
+        </Grid.Background>
+        <StackPanel Margin="0,0,0,338">
+            <Label Content="ТАЛОН №" 
+                   HorizontalAlignment="Center"
+                   Foreground="#FF0E0572"
+                   FontSize="45" 
+                   FontWeight="Bold"
+                   Margin="114,0,125,0" 
+                   Width="277" 
+                   Height="83"/>
+            <Label Content="{Binding Patient.Id}" 
+                   Height="78"
+                   FontSize="45"
+                   Foreground="#FF0E0572"
+                   FontWeight="Bold"
+                   Margin="360,-90,90,0" />
+        </StackPanel>
+        <StackPanel Margin="0,80,1,297">
+            <TextBlock Text="ВРАЧ"
+                       Foreground="#FF0E0572"
+                       FontSize="18" 
+                       FontWeight="Bold" 
+                       Margin="40,10,394,364"
+                       Height="27" />
+            <TextBox x:Name="DocTBox" 
+                     IsReadOnly="True"
+                     Margin="153,-400,103,364"
+                     FontSize="15"
+                     Foreground="#FF0E0572"
+                     FontWeight="Medium"
+                     Text="{Binding Specialist.NameSpecialist}"
+                     Height="22" Background="{x:Null}" BorderBrush="{x:Null}">
+            </TextBox>
+        </StackPanel>
+        <StackPanel Margin="0,127,0,235">
+            <TextBlock Text="КАБИНЕТ"
+                       Foreground="#FF0E0572"
+                       FontSize="18" 
+                       FontWeight="Bold" 
+                       Margin="40,0,394,364" Height="27" />
+            <TextBox x:Name="CabBox" 
+                     IsReadOnly="True" 
+                     Margin="153,-400,103,364"
+                     Height="22"
+                     FontSize="15"
+                     Foreground="#FF0E0572"
+                     Text="{Binding Specialist.Office}"
+                     FontWeight="Medium" BorderBrush="{x:Null}" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Margin="0,150,10,206">
+            <TextBlock Text="ДАТА" 
+                       Foreground="#FF0E0572" 
+                       FontSize="18" 
+                       FontWeight="Bold" 
+                       Margin="40,20,346,364" />
+            <TextBox x:Name="DateTBox" 
+                     IsReadOnly="True"
+                     Margin="153,-400,94,364"
+                     Height="22"
+                     FontSize="15"
+                     Foreground="#FF0E0572"
+                     FontWeight="Medium"
+                     Text="{Binding Time.Date}" BorderBrush="{x:Null}" Background="{x:Null}">
+            </TextBox>
+        </StackPanel>
+        <StackPanel Margin="0,189,0,161" >
+            <TextBlock Text="ВРЕМЯ" 
+                       Foreground="#FF0E0572" 
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Margin="40,20,320,364" />
+            <TextBox x:Name="TimeTBox"
+                     IsReadOnly="True"
+                     Margin="153,-400,103,364"
+                     Height="22"
+                     FontSize="15"
+                     Foreground="#FF0E0572"
+                     FontWeight="Medium"
+                     Text="{Binding Time.Time1}"
+                     Background="{x:Null}"
+                     BorderBrush="{x:Null}">
+            </TextBox>
+        </StackPanel>
+        <StackPanel Margin="0,294,0,10">
+            <TextBlock Text="Убедительная просьба приходить строго по времени!" 
+                       Foreground="#FF0E0572" 
+                       FontSize="15"
+                       FontWeight="Bold"
+                       Margin="40,0,10,364" />
+            <Button Margin="433,-650,28,-50" 
+                    Height="60"
+                    Background="{x:Null}"
+                    BorderBrush="{x:Null}"
+                    Foreground="{x:Null}" 
+                    Click="Button_Click">
+                <Image Source="Up.png" Width="51" Height="69"/>
+            </Button>
+            <TextBlock Text="Адрес:  г. Арск, ул. Большая, д.45" 
+                       Foreground="#FF0E0572" 
+                       FontSize="15"
+                       FontWeight="Medium"
+                       Margin="140,-270,91,364" />
+
+        </StackPanel>
+    </Grid>
+</Page>
